@@ -1,0 +1,6 @@
+framework module Pods_DrunkenBeauty {
+  umbrella header "Pods-DrunkenBeauty-umbrella.h"
+
+  export *
+  module * { export * }
+}

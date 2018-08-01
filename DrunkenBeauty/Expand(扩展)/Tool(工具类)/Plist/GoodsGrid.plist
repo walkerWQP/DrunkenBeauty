@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>iconImage</key>
+		<string>http://www.mayuanfang.top/wap/images/t1.png</string>
+		<key>gridTitle</key>
+		<string>分类</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>http://www.mayuanfang.top/wap/images/t2.png</string>
+		<key>gridTitle</key>
+		<string>购物车</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>http://www.mayuanfang.top/wap/images/t3.png</string>
+		<key>gridTitle</key>
+		<string>我的商城</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>http://www.mayuanfang.top/wap/images/t4.png</string>
+		<key>gridTitle</key>
+		<string>每日签到</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>http://www.mayuanfang.top/wap/images/t5.png</string>
+		<key>gridTitle</key>
+		<string>店铺街</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>http://www.mayuanfang.top/wap/images/t6.png</string>
+		<key>gridTitle</key>
+		<string>资产管理</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>http://www.mayuanfang.top/wap/images/t7.png</string>
+		<key>gridTitle</key>
+		<string>浏览足迹</string>
+	</dict>
+	<dict>
+		<key>iconImage</key>
+		<string>http://www.mayuanfang.top/wap/images/t8.png</string>
+		<key>gridTitle</key>
+		<string>我的推广码</string>
+	</dict>
+</array>
+</plist>
